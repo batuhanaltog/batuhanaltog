@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **via linkedIn or gmail**
 
-- 📄 Know about my experiences [I have been working on backend development for 3 years and from half of this time I started working on javascript as well.](I have been working on backend development for 3 years and from half of this time I started working on javascript as well.)
+- 📄 I have been working on backend development for 3 years and from half of this time I started working on javascript as well. Now I am trying to improve myself on technologies such as nodejs express mongodb and react.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
