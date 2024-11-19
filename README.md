@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Altog</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on **Backend development with python-django** (since 3 years)
+- 🔭 I’m currently working on **Backend development with python-django**
 
 - 🌱 I’m currently learning **nodejs and after that i am aiming to learn React**
 
