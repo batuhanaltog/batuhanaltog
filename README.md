@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nodejs and after that i am aiming to learn React**
 
-- 📫 How to reach me **via linkedIn or gmail**
+- 📫 https://www.linkedin.com/in/batuhan-alto%C4%9F-468b09222/ or with gmail.
 
 - 📄 I have been working on backend development for 3 years and from half of this time I started working on javascript as well. Now I am trying to improve myself on technologies such as nodejs express mongodb and react.
 
