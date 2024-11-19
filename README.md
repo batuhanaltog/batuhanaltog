@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning **nodejs and after that i am aiming to learn React**
 
-- 📫 https://www.linkedin.com/in/batuhan-alto%C4%9F-468b09222/ or with gmail.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/batuhanaltog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhanaltog" height="30" width="40" /></a>
+</p>
 
 - 📄 I have been working on backend development for 3 years and from half of this time I started working on javascript as well. Now I am trying to improve myself on technologies such as nodejs express mongodb and react.
 
